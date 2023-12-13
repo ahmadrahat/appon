@@ -1042,13 +1042,13 @@ color: #353535;
     
 }
 
-p{
+#footer p{
     color: #ffffff;
     font-family: var(--f1);
     font-weight: 400;
     font-size: 14px;
 }
-span{
+#footer span{
     text-transform: uppercase;
 transition: all linear 0.4s;
 }
